@@ -1,0 +1,23 @@
+{
+  "name": "angularjsdemo",
+  "version": "1.0.0",
+  "description": "Sample Application from Pluralsight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghorui/AngularJS.git"
+  },
+  "author": "Tarun Kumar Ghorui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghorui/AngularJS/issues"
+  },
+  "homepage": "https://github.com/ghorui/AngularJS#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  }
+}
